@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         Button btn8 = findViewById(R.id.button8);
         TextView answerTextView = findViewById(R.id.answerTextView);
 
-        // Obtener la información del dispositivo
+        // Obtener la información del dispositivos
         String versionOS = Build.VERSION.RELEASE;
         int versionAPI = Build.VERSION.SDK_INT;
         String modelo = Build.MODEL;
