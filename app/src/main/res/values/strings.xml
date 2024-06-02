@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> Revisar Características </string>
+    <string name="app_footer"> "@UnalTodosALaU2024" </string>
+    <string name="button_1"> Versión </string>
+    <string name="button_2"> Número API </string>
+    <string name="button_3"> Modelo </string>
+    <string name="button_4"> Fabricante </string>
+    <string name="button_5"> Hardware </string>
+    <string name="button_6"> Procesador </string>
+    <string name="button_7"> Marca </string>
+    <string name="button_8"> Tipo Build </string>
+</resources>
